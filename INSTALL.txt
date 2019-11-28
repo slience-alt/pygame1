@@ -1,0 +1,1 @@
+具有python3.0的编译环境的WindowsXP以上的所有系统。
